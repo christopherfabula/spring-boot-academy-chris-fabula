@@ -494,3 +494,19 @@ After completing this lab, you should be comfortable with:
 - Applying AOP patterns in real-world applications
 
 This foundation prepares you for advanced AOP topics like custom annotations, aspect precedence, and integration with other Spring features.
+  
+## Verification
+![Alt Text](src/main/resources/img/output1.png)
+![Alt Text](src/main/resources/img/output2.png)
+![Alt Text](src/main/resources/img/output3.png)
+![Alt Text](src/main/resources/img/output4.png)
+![Alt Text](src/main/resources/img/output5.png)
+![Alt Text](src/main/resources/img/output6.png)
+![Alt Text](src/main/resources/img/output7.png)
+![Alt Text](src/main/resources/img/output8.png)
+![Alt Text](src/main/resources/img/output9.png)
+![Alt Text](src/main/resources/img/output10.png)
+![Alt Text](src/main/resources/img/output11.png)
+![Alt Text](src/main/resources/img/output12.png)
+![Alt Text](src/main/resources/img/output13.png)
+![Alt Text](src/main/resources/img/output14.png)
